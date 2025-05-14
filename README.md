@@ -1,6 +1,10 @@
 # Molecular Property Prediction with PaiNN
 
-This repository contains code for training and evaluating the **PaiNN (Polarizable Atom Interaction Neural Network)** on the QM9 molecular dataset.
+This repository contains code for training and evaluating the implementation of **PaiNN (Polarizable Atom Interaction Neural Network)** on the QM9 molecular dataset.
+
+The Painn Model Implementation.
+Copyright (c) 2023, The University of Cambridge and the authors of the Polarizable Atom Interaction Neural Network (PaiNN) paper.
+All rights reserved.
 
 ## Overview
 
